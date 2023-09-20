@@ -1,0 +1,165 @@
+.row1 {
+    background-color: rgb(245, 245, 245);
+    width: 1920px;
+    height: 923px;
+}
+.row2 {
+    background-color: rgb(245, 245, 245);
+}
+
+.navtext1 {
+text-align: center;
+color: black;
+padding: 2px;
+}
+.navtext2 {
+    text-align: center;
+    color: rgb(16, 201, 195);
+    padding: 2px;
+    }
+
+    #row1{
+        background-image: url("aidan-hancock-8RU4OuA6Yug-unsplash.png");
+        background-size: cover;
+    }
+    #row3 {
+        width: 1920px;
+        height: 462px;
+    }
+    #row4 {
+        background-color: rgb(245, 245, 245);
+        width: 1920px;
+        height: 575px;
+    }
+    #row5 {
+        background-color:rgb(16, 201, 195);
+        padding: 2px;
+        width: 1920px;
+        height: 300px;
+        padding-right: 200px;
+    }
+    #row6 {
+        background-color: rgb(245, 245, 245);
+        width: 1920px;
+        height: 800px;
+    }
+    #row7 {
+        background-color: rgb(245, 245, 245);
+        width: 1920px;
+        height: 100px;
+    }
+    #row8 {
+        background-color: white;
+        width: 1920px;
+        height: 800px;
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+#row9 {
+    background-color:rgb(16, 201, 195);
+        width: 1920px;
+        height: 600px;
+}
+    .hone {
+        
+        text-align: left;
+        font-family: 'Montserrat', sans-serif;
+    }
+.htwo {
+font-size: 30px;
+}
+.hthree {
+    font-size: 30px;
+    padding-left: 10%;
+    padding-top: 15%;
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+}
+.hfour {
+    font-size: 30px;
+    text-align: center;
+}
+.hfive {
+    padding-top: 10%;
+    text-align: center;
+        font-family: 'Montserrat', sans-serif;
+        color: white;
+        font-size: 30px;
+}
+    .pone {
+        text-align: left;
+        font-size: 16px;
+        padding-right: 20%;
+        color: rgb(120, 120, 120);
+    }
+.ptwo {
+    text-align: center;
+        font-size: 18px;
+        color: rgb(120, 120, 120);
+}
+.pthree {
+    text-align: left;
+    padding-left: 10%;
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Nunito Sans', sans-serif;
+
+}
+.pfour {
+    text-align: left;
+padding-left: 55% ;
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Nunito Sans', sans-serif;
+color: white;
+position: relative;
+  bottom: 35px;
+  left: 10px;
+}
+.pfive {
+    text-align: center;
+        font-family: 'Montserrat', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+    position:relative; 
+        right: 15%;
+        bottom: 15%;
+}
+.psix {
+    text-align: center;
+        color: white;
+        font-size: 18px;
+        position:relative; 
+        bottom: 15%;
+}
+    .button1 {
+        background-color: rgb(16, 201, 195) ;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+    text-align: left;
+    position:relative; right:37%;
+    }
+    .progress-bar {
+        background-color: rgb(16, 201, 195) !important;
+        height: 4px !important;
+        text-align: left;
+        padding-left: 10%;
+    }
+    .progress {
+        height: 4px !important;
+        text-align: left;
+    padding-left: 10%;
+    }
+    .row6img {
+        padding: none;
+    }
+    .row8img {
+        text-align: center;
+        position:relative; 
+        bottom: 20%;
+        left: 30%;
+        }
