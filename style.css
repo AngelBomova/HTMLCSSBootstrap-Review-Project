@@ -60,6 +60,18 @@ padding: 2px;
         width: 1920px;
         height: 600px;
 }
+#row10 {
+    background-color: white;
+        width: 1920px;
+        height: 250px;
+      
+}
+.row11 {
+    background-color: rgb(245, 245, 245);
+    width: 1920px;
+    height: 800px;
+}
+}
     .hone {
         
         text-align: left;
@@ -85,6 +97,13 @@ font-size: 30px;
         font-family: 'Montserrat', sans-serif;
         color: white;
         font-size: 30px;
+}
+.hsix {
+    text-align: center;
+        font-family: 'Montserrat', sans-serif;
+        color: black;
+        font-size: 30px;
+        padding-top: 15%;
 }
     .pone {
         text-align: left;
@@ -129,6 +148,14 @@ position: relative;
         position:relative; 
         bottom: 15%;
 }
+.pseven {
+    text-align: center;
+        font-family: 'Montserrat', sans-serif;
+        color: rgb(120, 120, 120);
+        font-size: 14px;
+        position:relative; 
+        bottom: 75%;
+}
     .button1 {
         background-color: rgb(16, 201, 195) ;
         border: none;
@@ -163,3 +190,10 @@ position: relative;
         bottom: 20%;
         left: 30%;
         }
+        .row10img {
+        text-align: center;
+        position:relative; 
+        top: 40%;
+        left: 85%;
+        }
+        
