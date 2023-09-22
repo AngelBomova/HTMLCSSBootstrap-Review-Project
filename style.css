@@ -69,7 +69,16 @@ padding: 2px;
 .row11 {
     background-color: rgb(245, 245, 245);
     width: 1920px;
-    height: 800px;
+    height: 1400px;
+}
+#row12 {
+    width: 1920px;
+    height: 400px;
+    background-color: black;
+    background-image: url("footerpiroll.png");
+        background-size: cover;
+        position: relative;
+        top: 400px;
 }
     .hone {
         
@@ -182,7 +191,8 @@ position: relative;
         cursor: pointer;
     text-align: left;
     position:relative;
-    left: 25%;
+    left: 32%;
+    bottom: 100%;
     }
     .progress-bar {
         background-color: rgb(16, 201, 195) !important;
@@ -255,3 +265,12 @@ position: relative;
             position: relative;
             bottom: 100px;
         }
+#email2 {
+position: relative;
+left: 30%;
+}
+.hover:hover {
+    filter: brightness(50%) ;
+    transition-duration: .75s;
+    transition-timing-function: forwards;
+}
